@@ -1,2 +1,2 @@
 # VBA-challenge
-Home #2 - vba-challenge
+Homework #2 - VBA-challenge
